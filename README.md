@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gokulmkg/30dayscoding/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/gokulmkg/30dayscoding/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gokulmkg/30dayscoding/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/gokulmkg/30dayscoding/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gokulmkg/30dayscoding/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/gokulmkg/30dayscoding/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
