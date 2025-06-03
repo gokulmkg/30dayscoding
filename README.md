@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gokulmkg/30dayscoding/tree/master/0001-two-sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gokulmkg/30dayscoding/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/gokulmkg/30dayscoding/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/gokulmkg/30dayscoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/gokulmkg/30dayscoding/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gokulmkg/30dayscoding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/gokulmkg/30dayscoding/tree/master/0643-maximum-average-subarray-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gokulmkg/30dayscoding/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/gokulmkg/30dayscoding/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/gokulmkg/30dayscoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/gokulmkg/30dayscoding/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gokulmkg/30dayscoding/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
@@ -39,9 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gokulmkg/30dayscoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/gokulmkg/30dayscoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/gokulmkg/30dayscoding/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gokulmkg/30dayscoding/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gokulmkg/30dayscoding/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
