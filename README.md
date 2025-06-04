@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gokulmkg/30dayscoding/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gokulmkg/30dayscoding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/gokulmkg/30dayscoding/tree/master/0643-maximum-average-subarray-i) |
+| [1603-running-sum-of-1d-array](https://github.com/gokulmkg/30dayscoding/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gokulmkg/30dayscoding/tree/master/0209-minimum-size-subarray-sum) |
+| [1603-running-sum-of-1d-array](https://github.com/gokulmkg/30dayscoding/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
