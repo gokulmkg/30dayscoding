@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gokulmkg/30dayscoding/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/gokulmkg/30dayscoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/gokulmkg/30dayscoding/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/gokulmkg/30dayscoding/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gokulmkg/30dayscoding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gokulmkg/30dayscoding/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/gokulmkg/30dayscoding/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gokulmkg/30dayscoding/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/gokulmkg/30dayscoding/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gokulmkg/30dayscoding/tree/master/0074-search-a-2d-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/gokulmkg/30dayscoding/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/gokulmkg/30dayscoding/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
