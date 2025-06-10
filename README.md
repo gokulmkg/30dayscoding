@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gokulmkg/30dayscoding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/gokulmkg/30dayscoding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/gokulmkg/30dayscoding/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/gokulmkg/30dayscoding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gokulmkg/30dayscoding/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/gokulmkg/30dayscoding/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/gokulmkg/30dayscoding/tree/master/0152-maximum-product-subarray) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gokulmkg/30dayscoding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gokulmkg/30dayscoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/gokulmkg/30dayscoding/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/gokulmkg/30dayscoding/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/gokulmkg/30dayscoding/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gokulmkg/30dayscoding/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/gokulmkg/30dayscoding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gokulmkg/30dayscoding/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
